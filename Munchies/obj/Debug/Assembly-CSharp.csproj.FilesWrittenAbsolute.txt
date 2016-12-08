@@ -1,0 +1,36 @@
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/emmgreens23/Desktop/Munchies/obj/Debug/Assembly-CSharp.dll
+/Users/emmgreens23/Desktop/Munchies/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/UnityEngine.dll
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/UnityEditor.dll
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/Mono.Cecil.dll
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/Unity.DataContract.dll
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/emmgreens23/Desktop/Munchies/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/obj/Debug/Assembly-CSharp.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/UnityEngine.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/UnityEditor.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Henry/Downloads/MonsterMunchies-master 4/Munchies/Temp/bin/Debug/Assembly-CSharp.dll

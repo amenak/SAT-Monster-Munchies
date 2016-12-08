@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a61dd88f9e78a8343bb0cc10d4900c6a
+timeCreated: 1480833951
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lockergnome
+  fontNames:
+  - Lockergnome
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
